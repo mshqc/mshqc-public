@@ -1,1 +1,1 @@
-from .mshqc import *
+from ._mshqc import *
